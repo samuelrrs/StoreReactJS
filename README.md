@@ -16,7 +16,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 Coisas você precisa para instalar o software e como instalá-lo :
 
 ```
-GIT para colocar o projeto
+GIT para clonar o projeto
 ```
 
 ### 🔧 Instalação
