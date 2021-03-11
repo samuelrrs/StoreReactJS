@@ -38,7 +38,7 @@ Digite no terminal "yarn start" ou "npm run"
 
 <p>
 
-Clique aqui > [Store React JS](https://animaisfantasticos-samuelrrs.netlify.app/) 
+Clique aqui > [Store React JS](https://store-react-js-samuelrrs.netlify.app/) 
 
 <br>
 
